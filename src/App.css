@@ -1,0 +1,5 @@
+
+.breadcrumbs li,
+.nav li { display:inline-block; margin-right:10px; }
+.nav li a {color: #fff; font-size: 21px;}
+.nav li a:hover {text-decoration: underline;}
